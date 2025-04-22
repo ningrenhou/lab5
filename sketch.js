@@ -64,7 +64,7 @@ function setup(){
 
 function draw(){
     background('#ede0a3');
-    text(data.coffee[index],20,20);
+    text(data.coffee[index],30,30);
     index++;
     index = index % data.coffee.length;
     image( alldaihaoyuan[currentgengtu], daihaoyuanposition.x, daihaoyuanposition.y, daihaoyuanposition.w, daihaoyuanposition.h);
