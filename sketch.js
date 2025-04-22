@@ -1,3 +1,7 @@
+//Images from here: http://xhslink.com/a/WC3tanYAwrNab
+//Images from here: http://xhslink.com/a/859MXr3TyrNab
+//Images from here: http://xhslink.com/a/CQ8RYujnArNab
+
 var alldaihaoyuan = [];
 var data;
 var currentgengtu = 0;
